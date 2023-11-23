@@ -1,2 +1,2 @@
 # Go
-Go projects
+My personal Go projects
